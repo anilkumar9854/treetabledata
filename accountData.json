@@ -25869,16 +25869,29 @@
       "balance": 79685.9
     },
     {
+      "id": "TX-20260831-002",
+      "date": "31/08/2026",
+      "type": "credit",
+      "amount": "+157157.00",
+      "currency": "INR",
+      "description": "NEFT-CITIN26722872463- TATA CONSULTANCY SERVICES LIMITED-03320985 SALARY AUG - 0004794451-CIT10100000",
+      "source": "salary",
+      "dateTime": "2026-08-31 12:05:00.000",
+      "rawDateTime": "2026-08-31T06:35:00.000Z",
+      "amt": 157157,
+      "balance": 236842.9
+    },
+    {
       "id": "TX-20260901-001",
       "date": "01/09/2026",
       "type": "debit",
-      "amount": "70.00",
+      "amount": "157227.00",
       "currency": "INR",
-      "description": "UPI/Q026580881@ybl/Payment from Ph/Yes Bank Ltd/465324137157/YBLbf7b05c298384 54c8241356662d326b0/",
+      "description": "MMT/IMPS/51000437245/Family/Shruthi/SBIN0020952",
       "source": "generated",
       "dateTime": "2026-09-01 18:26:11.087",
       "rawDateTime": "2026-09-01T12:56:11.087Z",
-      "amt": -70,
+      "amt": -157227,
       "balance": 79615.9
     },
     {
