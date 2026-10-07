@@ -6283,40 +6283,40 @@
     {
       "id": "TX-20260305-001",
       "date": "05/03/2026",
-      "type": "debit",
-      "amount": "20.00",
+      "type": "credit",
+      "amount": "18530.00",
       "currency": "INR",
-      "description": "UPI/paytmqr28100505/Payment from Ph/Yes Bank Ltd/552994490980/YBLcc51fc643d6f45 2595a56df620c18d7d/",
+      "description": "NEF/ICIC0001056/C R INFOTECH MOHD BHURA-090427686994 CMS1023267488 Full and Final Settlement",
       "source": "generated",
       "dateTime": "2026-03-05 18:21:24.012",
       "rawDateTime": "2026-03-05T12:51:24.012Z",
-      "amt": -20,
-      "balance": 23275.78
+      "amt": 18530,
+      "balance": 41825.78
     },
     {
       "id": "TX-20260306-001",
       "date": "06/03/2026",
       "type": "debit",
-      "amount": "10.00",
+      "amount": "8000.00",
       "currency": "INR",
-      "description": "UPI/Q875904398@ybl/Payment from Ph/YES BANK LIMITE/904771932607/YBL242bdabcd 6d54417a2eb558dffb9016c/",
+      "description": "UPI/Q875904398@ybl/Payment from Ph/YES BANK LIMITE/904733629546/YBL242bdabcd 6d54417a2eb558dffb9016c/",
       "source": "generated",
       "dateTime": "2026-03-06 23:55:37.101",
       "rawDateTime": "2026-03-06T18:25:37.101Z",
-      "amt": -10,
-      "balance": 23265.78
+      "amt": -8000,
+      "balance": 33825.78
     },
     {
       "id": "TX-20260307-001",
       "date": "07/03/2026",
       "type": "debit",
-      "amount": "1494.00",
+      "amount": "12054.00",
       "currency": "INR",
       "description": "Consumer Loan XX40331 EMI Pant",
       "source": "generated",
       "dateTime": "2026-03-07 12:10:48.381",
       "rawDateTime": "2026-03-07T06:40:48.381Z",
-      "amt": -1494,
+      "amt": -12054,
       "balance": 21771.78
     },
     {
