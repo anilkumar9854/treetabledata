@@ -5879,16 +5879,29 @@
       "balance": 150632.68
     },
     {
+      "id": "TX-20261030-001",
+      "date": "30/10/2026",
+      "type": "credit",
+      "amount": "+80492.00",
+      "currency": "INR",
+      "description": "ACH C-SAL-EYGLODELSERINDLL-SALARYOCT26B",
+      "source": "salary",
+      "dateTime": "2026-10-30 12:00:00.000",
+      "rawDateTime": "2026-10-30T06:30:00.000Z",
+      "amt": 80492,
+      "balance": 231124.68
+    },
+    {
       "id": "TX-20261031-001",
       "date": "31/10/2026",
       "type": "debit",
-      "amount": "480.00",
+      "amount": "80972.00",
       "currency": "INR",
-      "description": "UPI/PALAMURU C/Vyapar.1706902/Payment fr/HDFC BANK/697151972896/YBL4ba29c5fb92 6465fa03491f3c90c0526/",
+      "description": "MMT/IMPS/520547339264/KKBKTrans fer/Avula /Kotak Mahindra",
       "source": "generated",
       "dateTime": "2026-10-31 01:52:28.717",
       "rawDateTime": "2026-10-30T20:22:28.717Z",
-      "amt": -480,
+      "amt": -80972,
       "balance": 150152.68
     },
     {
